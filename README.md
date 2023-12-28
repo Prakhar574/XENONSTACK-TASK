@@ -1,3 +1,4 @@
+
 Semester Encyclopedia
 Introduction: -
 The semester encyclopedia we’ve created is a comprehensive web application developed using HTML, CSS, JavaScript, PHP, and SQL. This application serves as a digital repository of information related to the academic semester.
