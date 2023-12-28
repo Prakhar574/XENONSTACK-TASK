@@ -8,3 +8,5 @@ SQL (Structured Query Language) is used for managing and manipulating the databa
 Login Credentials: -   
 Email:  Xenonstack@gmail.com
 Password:  1234
+
+Note:-Screenshots are there in task report pdf
